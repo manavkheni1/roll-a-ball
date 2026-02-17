@@ -32,7 +32,7 @@ This project implements **5 significant enhancements** beyond the base tutorial:
 | :--- | :--- |
 | **Move** | `W`, `A`, `S`, `D` or Arrow Keys |
 | **Jump** | `Spacebar` |
-| **Dash** | `Left Shift` or `E` |
+| **Dash** | `Right Shift` |
 | **Restart** | (Automatic on Win/Lose) |
 
 ---
@@ -67,6 +67,7 @@ This project implements **5 significant enhancements** beyond the base tutorial:
 * **3D Environment Assets:** [KayKit Forest Remastered](https://kaylousberg.itch.io/kaykit-forest) by Kay Lousberg (CC0).
 * **Audio SFX:** [Insert Source, e.g., Kenney Assets] (CC0).
 * **Core Logic:** Adapted from Unity Learn "Roll-a-Ball" tutorial.
+* **Audio SFX: Pixabay Game Sounds (Pixabay License).
 
 ---
 
