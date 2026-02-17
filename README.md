@@ -1,8 +1,8 @@
 # Roll-a-Ball Expanded: Time Attack Survival
 
 **Developer:** Manav Kheni  
-**Course:** CSYE 7270 - [Insert Full Course Name, e.g., Building Game Engines]  
-**Assignment:** Assignment 2 - Unity Physics & Scripting  
+**Course:** CSYE 7270 - [Building Virtual Environment]  
+**Assignment:** Assignment 2 - Learning Unity  
 **Engine:** Unity 6 (LTS)
 
 ---
@@ -65,9 +65,8 @@ This project implements **5 significant enhancements** beyond the base tutorial:
 
 * **Development:** Manav Kheni
 * **3D Environment Assets:** [KayKit Forest Remastered](https://kaylousberg.itch.io/kaykit-forest) by Kay Lousberg (CC0).
-* **Audio SFX:** [Insert Source, e.g., Kenney Assets] (CC0).
+* **Audio SFX:** Pixabay Game Sounds (Pixabay License).
 * **Core Logic:** Adapted from Unity Learn "Roll-a-Ball" tutorial.
-* **Audio SFX: Pixabay Game Sounds (Pixabay License).
 
 ---
 
